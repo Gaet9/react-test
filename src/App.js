@@ -1,3 +1,4 @@
+import { SpeedInsights } from "@vercel/speed-insights/react"
 import './App.css';
 import { ToDoList } from './components/ToDoList';
 
